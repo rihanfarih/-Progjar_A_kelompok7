@@ -1,11 +1,37 @@
-# Progjar_A_kelompok7
-Dokumentasi Tugas Pemrograman Jaringan A kelompok 7
+Tugas 2. PEMROGRAMAN JARINGAN
+----------------------------
+## soal 
+THREADED SERVER
 
-Nama Kelompok :
-1. Alfarabi Muzli - 051119400000039
-2. Rihan farih Bunyamin - 05111940000165
-3. Syamil Difaul Haq Sukur - 05111940000196
-4. Raharja Dui Putra Sutedjo - 05111940000222
+input.txt:
+	ADD 10
+	ADD 20
+	DEC 10
+	DEC 30
+	(10rb baris)
+
+randomloh.py:
+	merandom ADD/DEC [n] sebanyak 10000 baris
+
+sequential.py:
+	menghitung manual setelah di paralel
+
+klien_paralel.py:
+	program klien dengan proses
+
+ws_threaded.py (tidak diberikan)..
+	program server dengan thread
+
+Tugas:
+* a. membuat server multi thread (lihat kode ch07/srv_threaded.py)...
+* b. membuat server asyncio (lihat kode ch07/srv_asyncio[12].py
+
+Link Youtube demo (soal no 2 saja)
+https://youtu.be/DGJka99vIuQ
+
+
+
+
 
 
 
