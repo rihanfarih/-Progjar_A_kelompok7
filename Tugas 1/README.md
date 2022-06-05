@@ -1,4 +1,4 @@
-# Progjar-1
+# Progjar-1 (individu)
 ## Rihan Farih Bunyamin - 05111940000165
 link demo yt :https://youtu.be/_VWfjBEaEPA
 
