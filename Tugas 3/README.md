@@ -1,11 +1,6 @@
-# Progjar_A_kelompok7
-Dokumentasi Tugas Pemrograman Jaringan A kelompok 7
+# Tugas 3. PEMROGRAMAN JARINGAN
+## soal
 
-Nama Kelompok :
-1. Alfarabi Muzli - 051119400000039
-2. Rihan farih Bunyamin - 05111940000165
-3. Syamil Difaul Haq Sukur - 05111940000196
-4. Raharja Dui Putra Sutedjo - 05111940000222
-
+![](https://github.com/rihanfarih/Progjar_A_kelompok7/blob/main/Tugas%203/soal.png)
 
 
