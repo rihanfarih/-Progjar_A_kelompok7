@@ -7,6 +7,6 @@ Nama Kelompok :
 3. Syamil Difaul Haq Sukur - 05111940000196
 4. Raharja Dui Putra Sutedjo - 05111940000222
 
-**link video Demo 2-4 
+**link video Demo 2-4 https://youtu.be/8zweD1sB--I**
 
 
